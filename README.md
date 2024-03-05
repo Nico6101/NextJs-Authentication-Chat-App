@@ -88,6 +88,7 @@ The project includes several API routes for handling authentication and client-s
         }
     
 ### /api/chat: socket.io server.
+    Note: Chat functionality demo is shown. Client can send the message to server and the message received can be seen on server logs.
 
 ## Configuration
 
