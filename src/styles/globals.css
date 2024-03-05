@@ -105,3 +105,9 @@ a {
     color-scheme: dark;
   }
 }
+
+a { cursor: pointer; }
+
+.app-container {
+    min-height: 500px;
+}
