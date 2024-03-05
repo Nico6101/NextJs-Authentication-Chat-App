@@ -1,5 +1,29 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## NextJs Typescript Authentication and Chat Application
+
+Welcome to the documentation for our Next.js project! This guide will provide you with all the necessary information to get started, understand the project structure, and contribute to the project.
+
+# Table of Contents
+
+    Project Overview
+    Installation
+    Usage
+    Project Structure
+    Configuration
+    Testing
+
+## Project Overview
+Our project is a Next.js application written in TypeScript. It serves as a demo for building modern web applications with authentication and chat capablities using socket io. The project includes:
+
+    React components written in TypeScript
+    Routing with Next.js's built-in routing system
+    API routes for server-side logic
+    CSS styling with CSS modules
+    Jest and React Testing Library for testing
+    Configuration for linting with ESLint
+    Webpack configuration for customizations
+
 ## Getting Started
 
 First, run the development server:
