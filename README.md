@@ -37,8 +37,8 @@ To install and run the project locally, follow these steps:
         npm install
 
 ## Usage
-To start the development server, run:
-    npm run dev
+    To start the development server, run:
+        npm run dev
 
 This will start the Next.js development server on http://localhost:3000.
 
