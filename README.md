@@ -27,14 +27,14 @@ Our project is a Next.js application written in TypeScript. It serves as a demo 
 ## Installation
 To install and run the project locally, follow these steps:
 
-1. Clone the Repository:
-    git clone https://github.com/Nico6101/NextJs-Authentication-Chat-App.git
+    1. Clone the Repository:
+        git clone https://github.com/Nico6101/NextJs-Authentication-Chat-App.git
 
-2. Navigate to the project directory:
-    cd NextJs-Authentication-Chat-App
+    2. Navigate to the project directory:
+        cd NextJs-Authentication-Chat-App
 
-3. Install dependencies:
-    npm install
+    3. Install dependencies:
+        npm install
 
 ## Usage
 To start the development server, run:
@@ -45,16 +45,16 @@ This will start the Next.js development server on http://localhost:3000.
 ## Project Structure
 The project follows a standard Next.js project structure:
 
-├── pages/              # Next.js pages
-├── public/             # Static assets
-├── components/         # React components
-├── styles/             # CSS styles
-├── api/                # Next.js API routes
-├── __test__/           # Test files
-├── .eslintrc.json      # ESLint configuration
-├── tsconfig.json       # TypeScript configuration
-├── jest.config.ts      # Jest configuration
-└── next.config.mjs     # Next.js configuration
+    ├── pages/              # Next.js pages
+    ├── public/             # Static assets
+    ├── components/         # React components
+    ├── styles/             # CSS styles
+    ├── api/                # Next.js API routes
+    ├── __test__/           # Test files
+    ├── .eslintrc.json      # ESLint configuration
+    ├── tsconfig.json       # TypeScript configuration
+    ├── jest.config.ts      # Jest configuration
+    └── next.config.mjs     # Next.js configuration
 
 
 ## API Routes
